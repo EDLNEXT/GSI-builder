@@ -1,3 +1,9 @@
 Date: 29052021
 Public
 Generic System Image (GSI) for all devices
+ROM_LINK: https://cdnorg.d.miui.com/V12.5.13.0.RGBCNXM/miui_EVERGO_V12.5.13.0.RGBCNXM_020069c952_11.0.zip   #direct link
+ROM_TYPE: Generic   #ima pretend that this is a Nusantara or other MIUI12.5 rom
+BUILD_AB: true   #building both
+BUILD_AONLY: true   #building both
+ROM_AB: MIUI12.5AB_evergoBLABLABLA.7z
+ROM_AONLY: MIUI12.5Aonly_evergoBLABLABLA.7z
